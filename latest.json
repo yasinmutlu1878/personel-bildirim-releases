@@ -1,0 +1,8 @@
+{
+    "surum":  "1.0.0",
+    "dosya":  "personel-bildirim-1.0.0.tar.gz",
+    "sha256":  "52918163a51aa9d79f42300c5e3b2366db06cf6b1d04a692afed01808420f694",
+    "url":  "https://github.com/yasinmutlu1878/personel-bildirim-releases/releases/download/v1.0.0/personel-bildirim-1.0.0.tar.gz",
+    "notlar":  "Ilk surum. Ise giris ve isten cikis bildirimleri, personel listesi, ofis paneli, PDF ve e-posta bildirimi, NAS kurulumu ve otomatik guncelleme.",
+    "yayinTarihi":  "2026-09-22"
+}
