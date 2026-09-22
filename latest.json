@@ -1,8 +1,8 @@
 {
-    "surum":  "1.0.2",
-    "dosya":  "personel-bildirim-1.0.2.tar.gz",
-    "sha256":  "c1704a467033f4eba4cbb52d2e7fa3f1f82a9f58aafcc489f24df35fb8059206",
-    "url":  "https://github.com/yasinmutlu1878/personel-bildirim-releases/releases/download/v1.0.2/personel-bildirim-1.0.2.tar.gz",
-    "notlar":  "Arayuz Mali Ofis ortak tasarim sistemine gecirildi: Musteri Takip / Z Raporu / On Muhasebe ile ayni renkler, sol kenar menu, DM Serif basliklar, JetBrains Mono sayilar ve acik/koyu tema.",
+    "surum":  "1.0.3",
+    "dosya":  "personel-bildirim-1.0.3.tar.gz",
+    "sha256":  "86ab6bea93cb2d0e232f5163e13fabc16c7b682bad97eb4c66fd1016c750530b",
+    "url":  "https://github.com/yasinmutlu1878/personel-bildirim-releases/releases/download/v1.0.3/personel-bildirim-1.0.3.tar.gz",
+    "notlar":  "CSS katman sirasi duzeltildi: secili filtre dugmesinin yazisi gorunmuyordu, pasif dugmelerin yazisi gri yerine mavi cikiyordu.",
     "yayinTarihi":  "2026-09-22"
 }
