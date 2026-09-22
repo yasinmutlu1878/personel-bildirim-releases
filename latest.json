@@ -1,8 +1,8 @@
 {
-    "surum":  "1.0.1",
-    "dosya":  "personel-bildirim-1.0.1.tar.gz",
-    "sha256":  "d71f2823ff9dc5e6dff2637b8e87eae01f4f9a4506072925451c695a51294d4e",
-    "url":  "https://github.com/yasinmutlu1878/personel-bildirim-releases/releases/download/v1.0.1/personel-bildirim-1.0.1.tar.gz",
-    "notlar":  "Ofise gelen bildirim e-postasinda gonderen adi artik bildirimi yapan firmanin adi. Konu: \u003cPersonel Adi\u003e ise giris/isten cikis bildirimi. Bildirim numarasi X-Bildirim-No basliginda ve PDF ek adinda.",
+    "surum":  "1.0.2",
+    "dosya":  "personel-bildirim-1.0.2.tar.gz",
+    "sha256":  "c1704a467033f4eba4cbb52d2e7fa3f1f82a9f58aafcc489f24df35fb8059206",
+    "url":  "https://github.com/yasinmutlu1878/personel-bildirim-releases/releases/download/v1.0.2/personel-bildirim-1.0.2.tar.gz",
+    "notlar":  "Arayuz Mali Ofis ortak tasarim sistemine gecirildi: Musteri Takip / Z Raporu / On Muhasebe ile ayni renkler, sol kenar menu, DM Serif basliklar, JetBrains Mono sayilar ve acik/koyu tema.",
     "yayinTarihi":  "2026-09-22"
 }
