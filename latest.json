@@ -1,8 +1,8 @@
 {
-    "surum":  "1.5.1",
-    "dosya":  "personel-bildirim-1.5.1.tar.gz",
-    "sha256":  "c4f90a3d04cc8aef189c005c5033f8600166c724f7c562d3b193f47688443def",
-    "url":  "https://github.com/yasinmutlu1878/personel-bildirim-releases/releases/download/v1.5.1/personel-bildirim-1.5.1.tar.gz",
-    "notlar":  "Personel Bildirim 1.5.1",
+    "surum":  "1.5.2",
+    "dosya":  "personel-bildirim-1.5.2.tar.gz",
+    "sha256":  "70fa61263bd7c12252c56a000539d518fae35ceeb5f49817184b9f6f1d124327",
+    "url":  "https://github.com/yasinmutlu1878/personel-bildirim-releases/releases/download/v1.5.2/personel-bildirim-1.5.2.tar.gz",
+    "notlar":  "Personel Bildirim 1.5.2",
     "yayinTarihi":  "2026-09-22"
 }
