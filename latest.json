@@ -1,8 +1,8 @@
 {
-    "surum":  "1.9.0",
-    "dosya":  "personel-bildirim-1.9.0.tar.gz",
-    "sha256":  "794a10151db1b6258daa65c9f2f33058a8dd2da441c1f693eda9adda2ca4b37c",
-    "url":  "https://github.com/yasinmutlu1878/personel-bildirim-releases/releases/download/v1.9.0/personel-bildirim-1.9.0.tar.gz",
-    "notlar":  "Özlük belgeleri: iş sözleşmesi (beş tür; şirkete göre düzenlenebilir ve sürümlü), fazla çalışma, ulusal bayram ve genel tatil ile vardiyalı çalışma onayları, işe başlatma, zimmet ve kişisel koruyucu donanım tutanakları, oryantasyon formu, İSG ve araç talimatları, KVKK aydınlatma metni ve açık rıza; çalışma belgesi, fesih bildirimleri, tebellüğden kaçınma tutanağı, ibraname ve mevsimlik askı; izin kayıt belgesi, iş kazası tespit tutanağı, puantajdan aylık çalışma beyanı ve serbest zaman formu, çalışma koşullarında değişiklik bildirimi, çalışma yeri değişikliği teklifi, geçici görevlendirme ve telafi mutabakatı ilgili bildirimden ya da personel kartından çalışanın bilgileriyle dolu basılır. Personel kartında Disiplin sekmesi: tutanak, savunma istemi, yazılı ihtar ve devamsızlık ihtarnamesi. Şirketin Belge metinleri sayfasından sözleşme, talimat ve KVKK metinleri düzenlenir; mevcut çalışanlara toplu sözleşme ve onay belgelerinin yıllık toplu basımı yapılır. Belgelerin ve izin formunun antetinde şirketin vergi dairesi, vergi numarası, telefonu ve e-postası yer alır. İş kazası bildirimine işbaşı saati ve uzuv kaybı eklendi; işe girişte deneme süresi varsayılan olarak 2 ay gelir. Düzeltme: güncelleme kurulurken ekran artık kurulumun sürdüğünü gösterir, yeni sürüm açılınca sayfa kendiliğinden yenilenir, kurulum sırasında kur düğmesine yeniden basılamaz. Kurulum yeni tablo ve alanlar ekler, mevcut kayıtlara dokunmaz.",
+    "surum":  "1.9.1",
+    "dosya":  "personel-bildirim-1.9.1.tar.gz",
+    "sha256":  "94afe09e1b8ee08903aea698716bb7ad635279dc779056c6a5cd8e491c705d0a",
+    "url":  "https://github.com/yasinmutlu1878/personel-bildirim-releases/releases/download/v1.9.1/personel-bildirim-1.9.1.tar.gz",
+    "notlar":  "PDF çıktıları daha görünür: bildirimin sayfasında belgeler Özet sekmesinin başında, her biri kendi kutusunda PDF düğmesiyle durur; firmada tam genişlikte, ofiste bildirim bilgilerinin altında. O an basılamayan belge gri görünür, nedenini yazar ve listenin sonunda durur. Bildirim, personel kartı, özlük belgeleri, bordro ve pusulalar ile metin önizlemesi dahil PDF açan bütün düğmeler simgeli ve renkli tek görünümde. Sürüm ekranı: NAS\u0027ta güncelleme klasörüne elle kopyalanan paket artık ekrandaki düğmeyle kurulur. Kılavuza özlük belgeleri ve disiplin ekran görüntüleri eklendi. Veritabanı değişikliği yoktur.",
     "yayinTarihi":  "2026-09-23"
 }
