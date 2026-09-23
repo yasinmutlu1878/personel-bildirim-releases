@@ -1,8 +1,8 @@
 {
-    "surum":  "1.5.4",
-    "dosya":  "personel-bildirim-1.5.4.tar.gz",
-    "sha256":  "b2ad5d06203d1182ba9ee3c6e15b87e05f52e79bf6cfb1762c9630732722157f",
-    "url":  "https://github.com/yasinmutlu1878/personel-bildirim-releases/releases/download/v1.5.4/personel-bildirim-1.5.4.tar.gz",
-    "notlar":  "Telefonda sol menü artık soldan açılıyor. Sol üstteki ☰ düğmesine basınca web sürümündeki sol menünün aynısı soldan kayarak gelir ve arkadaki sayfa kararır. Karartılmış alana dokunmak, menüdeki ✕ düğmesi ya da bir sayfa seçmek menüyü kapatır. Ayrıca içeriği kısa sayfalarda telefondaki üst çubuğun gereksiz yere uzaması düzeltildi.",
+    "surum":  "1.6.0",
+    "dosya":  "personel-bildirim-1.6.0.tar.gz",
+    "sha256":  "8a7ff6b74d762029704aa7ceb15cb7c059276e1564d125b21728f822c0a06930",
+    "url":  "https://github.com/yasinmutlu1878/personel-bildirim-releases/releases/download/v1.6.0/personel-bildirim-1.6.0.tar.gz",
+    "notlar":  "Yeni bildirim türleri: bilgi değişikliği (ücret, görev, şube, iletişim, banka ve aile bilgileri), iş kazası ve aylık puantaj. Puantaj ofise PDF\u0027in yanında Excel nüshasıyla gelir. Her bildirimde onay, durum değişiklikleri ve firma ile ofis arasındaki notlar geçmiş olarak görünür. Taslak ve eksik bildirimler, deneme süresi, sözleşme ve çalışma izni bitişleri ile gelmeyen puantajlar için otomatik hatırlatma gider; ofise her sabah özet gelir. Personel, bildirim ve izin listeleri Excel\u0027e aktarılabilir; izin takvimi ve ofis için Raporlar ekranı eklendi. Veritabanı her gece kendiliğinden yedeklenir, son yedekler Sürüm ekranında görünür. Eksik bildirimin düzeltilememesi, izin onayında çıkış bilgisinin silinmesi, iptal edilen işe girişin personeli askıda bırakması ve yıllık izindeki 18 ve 50 yaş sınırı gibi hatalar düzeltildi. Kurulumda mevcut kayıtlardaki tarih ve durum tutarsızlıkları da düzeltilir; kurmadan önce veritabanı yedeği almanız önerilir.",
     "yayinTarihi":  "2026-09-23"
 }
