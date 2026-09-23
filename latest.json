@@ -1,8 +1,8 @@
 {
-    "surum":  "1.5.3",
-    "dosya":  "personel-bildirim-1.5.3.tar.gz",
-    "sha256":  "e4198cd15810d2b7c3448de6f136e78227c5437573a31f327f102956498ae401",
-    "url":  "https://github.com/yasinmutlu1878/personel-bildirim-releases/releases/download/v1.5.3/personel-bildirim-1.5.3.tar.gz",
-    "notlar":  "Personel Bildirim 1.5.3",
-    "yayinTarihi":  "2026-09-22"
+    "surum":  "1.5.4",
+    "dosya":  "personel-bildirim-1.5.4.tar.gz",
+    "sha256":  "b2ad5d06203d1182ba9ee3c6e15b87e05f52e79bf6cfb1762c9630732722157f",
+    "url":  "https://github.com/yasinmutlu1878/personel-bildirim-releases/releases/download/v1.5.4/personel-bildirim-1.5.4.tar.gz",
+    "notlar":  "Telefonda sol menü artık soldan açılıyor. Sol üstteki ☰ düğmesine basınca web sürümündeki sol menünün aynısı soldan kayarak gelir ve arkadaki sayfa kararır. Karartılmış alana dokunmak, menüdeki ✕ düğmesi ya da bir sayfa seçmek menüyü kapatır. Ayrıca içeriği kısa sayfalarda telefondaki üst çubuğun gereksiz yere uzaması düzeltildi.",
+    "yayinTarihi":  "2026-09-23"
 }
