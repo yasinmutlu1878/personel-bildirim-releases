@@ -1,8 +1,8 @@
 {
-    "surum":  "1.6.0",
-    "dosya":  "personel-bildirim-1.6.0.tar.gz",
-    "sha256":  "8a7ff6b74d762029704aa7ceb15cb7c059276e1564d125b21728f822c0a06930",
-    "url":  "https://github.com/yasinmutlu1878/personel-bildirim-releases/releases/download/v1.6.0/personel-bildirim-1.6.0.tar.gz",
-    "notlar":  "Yeni bildirim türleri: bilgi değişikliği (ücret, görev, şube, iletişim, banka ve aile bilgileri), iş kazası ve aylık puantaj. Puantaj ofise PDF\u0027in yanında Excel nüshasıyla gelir. Her bildirimde onay, durum değişiklikleri ve firma ile ofis arasındaki notlar geçmiş olarak görünür. Taslak ve eksik bildirimler, deneme süresi, sözleşme ve çalışma izni bitişleri ile gelmeyen puantajlar için otomatik hatırlatma gider; ofise her sabah özet gelir. Personel, bildirim ve izin listeleri Excel\u0027e aktarılabilir; izin takvimi ve ofis için Raporlar ekranı eklendi. Veritabanı her gece kendiliğinden yedeklenir, son yedekler Sürüm ekranında görünür. Eksik bildirimin düzeltilememesi, izin onayında çıkış bilgisinin silinmesi, iptal edilen işe girişin personeli askıda bırakması ve yıllık izindeki 18 ve 50 yaş sınırı gibi hatalar düzeltildi. Kurulumda mevcut kayıtlardaki tarih ve durum tutarsızlıkları da düzeltilir; kurmadan önce veritabanı yedeği almanız önerilir.",
+    "surum":  "1.7.0",
+    "dosya":  "personel-bildirim-1.7.0.tar.gz",
+    "sha256":  "f7aff9d0ed9c6245d2c138254ba2daf932447a6aa59f0b5a766f4d533de0923a",
+    "url":  "https://github.com/yasinmutlu1878/personel-bildirim-releases/releases/download/v1.7.0/personel-bildirim-1.7.0.tar.gz",
+    "notlar":  "Aylık bordro: ofis bir şirketin bordro PDF\u0027ini tek dosya olarak yükler; sistem sayfaları çalışanların T.C. kimlik numarasına, yoksa ad soyadına göre kişilere ayırır. Kimseye atanamayan sayfalar (liste sayfası, icmal, kayıtsız T.C., boş sayfa) kontrol ekranında nedeniyle listelenir ve elle atanır. Ofis Firmaya aç dediğinde firma yetkilisi yeni Bordrolar sayfasında yalnızca yetkili olduğu şubelerin çalışanlarının bordrolarını kişi bazında ya da tek PDF olarak indirir; isteğe bağlı bilgilendirme e-postası yalnızca bağlantı içerir. Personel kartında çalışanın bordroları görünür. Kurulum yalnızca yeni tablolar ekler, mevcut kayıtlara dokunmaz.",
     "yayinTarihi":  "2026-09-23"
 }
